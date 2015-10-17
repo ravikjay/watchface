@@ -1,0 +1,38 @@
+{
+  "uuid": "d74ef190-b5f0-4f4f-a4c6-0a8d2d24b7ee",
+  "shortName": "ravi-watch",
+  "longName": "ravi-watch",
+  "companyName": "CharismaticRenegade",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": 
+    [
+      {
+        "type": "font",
+        "name":"FONT_PERFECT_DOS_48",
+        "file":"fonts/perfect-dos-vga.ttf",
+        "compatibility": "2.7"
+      },
+      {
+        "type":"font",
+        "name":"FONT_PERFECT_DOS_20",
+        "file":"fonts/perfect-dos-vga.ttf",
+        "compatibility": "2.7"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_BACKGROUND",
+        "file": "images/background.png"
+      }
+
+    ]
+  }
+}
